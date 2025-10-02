@@ -9,7 +9,7 @@ Ex-Technical Project Manager & Lead Developer @ Rocscience | Geotechnical Softwa
 
 Born and raised on the paradisiac island of Mauritius, I’m a developer, technical project manager, and curious mind with a passion for numerical modeling, stochastic analysis, and creative problem-solving. I earned my BASc (2017) and MASc (2019) in Civil Engineering at the University of Waterloo, where my research developed new stochastic frameworks for soil-structure interaction.
 
-My professional journey led me to Rocscience (2020–2025), where I contributed to industry-leading geotechnical software (RSPile, RocSupport, and RocSlope2), and led the development and commercial release of RocSlope2 as project manager. Now, I’m focused on personal projects and riding new waves—literally and figuratively.
+My professional journey led me to Rocscience (2020–2025), where I contributed to industry-leading geotechnical software (RSPile, and RocSlope2), and led the development and commercial release of RocSlope2 as project manager. Now, I’m focused on personal projects and riding new waves—literally and figuratively.
 
 ---
 
