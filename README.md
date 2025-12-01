@@ -28,7 +28,7 @@ My professional journey led me to Rocscience (2020–2025), where I contributed 
 - [TradingBot](https://github.com/turtlebrain/TradingBot): My ongoing personal project—algorithmic trading meets statistical analysis.
 - RocSlope2: 3D slope stability software for rock slopes. Led its inception and development at Rocscience; streamlined workflows for ground-control engineers.
 - [StatisticalDescriptionTool](https://github.com/turtlebrain/StatisticalDescriptionTool): Tools for descriptive statistical analysis.
-- [SHEAR_FICTION](https://github.com/turtlebrain/SHEAR_FICTION): Exploring fiction through the lens of mechanics and satire.
+- [SHEAR_FICTION](https://github.com/turtlebrain/SHEAR_FICTION): Exploring mechanics and material science through a satirical lens. 
 
 Explore all my projects [here](https://github.com/turtlebrain?tab=repositories).
 
